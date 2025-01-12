@@ -89,7 +89,7 @@ The dataset contains **20,765 entries and 22 features**, including:
 ## How to Run This Project
 1. Clone the repository:
    ```bash
-   git clone https://github.com/najirh/Python-Project-P2-New-York-AirBnb-Listing-2024.git
+   git clone https://github.com/musfiqurrabeg/New-York-AirBnB-Listing-2024.git
    ```
 2. Install the required libraries:
    ```bash
@@ -97,7 +97,7 @@ The dataset contains **20,765 entries and 22 features**, including:
    ```
 3. Run the **Jupyter notebook** or **Python script**:
    ```bash
-   jupyter notebook airbnb_eda.ipynb
+   jupyter notebook note.ipynb
    ```
 
 ---
